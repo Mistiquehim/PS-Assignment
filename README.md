@@ -28,9 +28,13 @@ Semantic tags used to support accessibilty.
 
 ![lighthouse score](https://postimg.cc/kVVhdXYT)
 
+![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
+
 ### Accessibility using Wave extension of chrome:
 
 ![Accessibility](https://postimg.cc/Bj7wy1p8)
+
+![Alt text](/../master/public/Ligthhouse-Performance-test.JPG?raw=true "Optional Title")
 
 ### Available Scripts
 
