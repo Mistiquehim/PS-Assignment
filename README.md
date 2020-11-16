@@ -26,11 +26,11 @@ Semantic tags used to support accessibilty.
 
 ### Lighthouse Report:
 
-![lighthouse score] (https://postimg.cc/Bj7wy1p8)
+![lighthouse score] (https://postimg.cc/kVVhdXYT)
 
 ### Accessibility using Wave extension of chrome:
 
-![Accessibility] (https://postimg.cc/kVVhdXYT)
+![Accessibility] (https://postimg.cc/Bj7wy1p8)
 
 ### Available Scripts
 
