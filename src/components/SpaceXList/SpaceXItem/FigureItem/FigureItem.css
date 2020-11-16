@@ -1,0 +1,10 @@
+.figure-item {
+  background: #f2f2f2;
+  text-align: center;
+  margin: 0;
+}
+.figure-item img {
+  width: 100%;
+  height: auto;
+  min-height: 150px;
+}

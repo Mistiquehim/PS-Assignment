@@ -1,0 +1,36 @@
+.launch-detail {
+  display: flex;
+  align-content: center;
+  margin-bottom: 12px;
+}
+.launch-detail.type-list {
+  display: block;
+}
+.detail-label {
+  font-size: 20px;
+  margin: 0;
+}
+.type-list .detail-label {
+  font-size: 22px;
+  margin: 0;
+}
+.detail-value {
+  color: #474f98;
+  margin: 0 5px 0;
+  font-size: 20px;
+}
+.type-list .detail-value {
+  margin-left: 30px;
+  font-size: 22px;
+  margin: 0;
+}
+
+
+@media screen and (min-width: 701px) {
+  .detail-label,.detail-value {
+    font-size: 16px;
+  }
+  .type-list .detail-label,.type-list .detail-value {
+    font-size: 16px
+  }
+}

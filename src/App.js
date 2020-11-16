@@ -1,13 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import Layout from './containers/Layout/Layout'
+import Dashboard from './containers/Dashboard/Dashboard'
+import { getParam } from './utils/utils'
 
-function App() {
+function App(props) {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
-    </div>
+    <Layout>
+      <Dashboard query={getParam(props.location.search)} history={props.history} />
+    </Layout>
   );
 }
 
