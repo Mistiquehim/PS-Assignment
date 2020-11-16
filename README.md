@@ -26,11 +26,11 @@ Semantic tags used to support accessibilty.
 
 ### Lighthouse Report:
 
-![lighthouse score](https://github.com/Mistiquehim/PS-Assignment/tree/master/public/Ligthhouse-Performance-test.JPG)
+![lighthouse score](https://postimg.cc/Bj7wy1p8)
 
 ### Accessibility using Wave extension of chrome:
 
-![Accessibility](https://github.com/Mistiquehim/PS-Assignment/tree/master/public/AccessebilityTest.JPG)
+![Accessibility](https://postimg.cc/kVVhdXYT)
 
 ### Available Scripts
 
