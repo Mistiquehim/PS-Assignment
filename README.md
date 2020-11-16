@@ -22,7 +22,7 @@ Created Responsive layout.\
 Module design pattern used.\
 Reusable components build.\
 To enhance performance infinite scroll, lazy loading & memoizing is used.\
-Semantic tags used to support accessibilty.\
+Semantic tags used to support accessibilty.
 
 ### Lighthouse Report:
 
