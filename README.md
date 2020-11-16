@@ -16,13 +16,13 @@ The application is deployed on Heroku
 
 ## Key Features
 
-Server-side rendered.
-PWA web application.
-Created Responsive layout.
-Module design pattern used.
-Reusable components build.
-To enhance performance infinite scroll, lazy loading & memoizing is used.
-Semantic tags used to support accessibilty.
+Server-side rendered.\
+PWA web application.\
+Created Responsive layout.\
+Module design pattern used.\
+Reusable components build.\
+To enhance performance infinite scroll, lazy loading & memoizing is used.\
+Semantic tags used to support accessibilty.\
 
 ### Lighthouse Report:
 
