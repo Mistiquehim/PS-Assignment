@@ -26,15 +26,11 @@ Semantic tags used to support accessibilty.
 
 ### Lighthouse Report:
 
-![lighthouse score](https://postimg.cc/kVVhdXYT)
-
-![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
+![Alt text](/../master/public/Ligthhouse-Performance-test.JPG?raw=true "Ligthhouse-Performance-test")
 
 ### Accessibility using Wave extension of chrome:
 
-![Accessibility](https://postimg.cc/Bj7wy1p8)
-
-![Alt text](/../master/public/Ligthhouse-Performance-test.JPG?raw=true "Optional Title")
+![Alt text](/../master/public/AccessebilityTest.JPG?raw=true "AccessebilityTest")
 
 ### Available Scripts
 
