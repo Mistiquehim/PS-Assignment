@@ -16,7 +16,6 @@ The application is deployed on Heroku
 
 ## Key Features
 
-Server-side rendered.\
 PWA web application.\
 Created Responsive layout.\
 Module design pattern used.\
